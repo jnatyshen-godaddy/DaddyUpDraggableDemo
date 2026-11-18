@@ -1,0 +1,11 @@
+{
+  "title": "Daddy Up Effect Demo",
+  "description": "An interactive image viewer lets users drag and explore images while applying visual shader effects across browsers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": true
+  }
+}
